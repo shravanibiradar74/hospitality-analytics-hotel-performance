@@ -170,10 +170,6 @@ As a member of the project team, my contribution included:
 
 **Data Analysis | Excel | SQL | MySQL | Power BI | Tableau | Data Visualization | KPI Analysis | Business Analytics | Dashboard Development**
 
-## 📌 Project Type
-
-**Team Project – Hospitality Analytics**
-**Team Members - 1. Shravani Biradar
-                 2. Chetan Kare
-                 3. Rohit Chauhan
-                 4. Shaikh Momin
+## 📌 Author
+ Shravani Biradar
+                 
